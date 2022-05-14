@@ -10,7 +10,7 @@ The company owners have tasked the data analyst with answering a list of questio
 ## Data Warehouse Design
 The tables of the data warehouse required to investigate downtime incidents are shown in this diagram:
 
-![Data Warehouse Test Tables]https://github.com/richardgourley/data-analysis-report-with-sql/raw/main/data_warehouse_test_tables.png
+![Data Warehouse Test Tables](https://github.com/richardgourley/data-analysis-report-with-sql/raw/main/data_warehouse_test_tables.png)
 
 ## Questions for Analysis
 - The company owners would like the Data Analyst to report back and answer the questions below, particularly focusing on how the servers have performed in quarter 1 since January and any recommendations as to what to focus on to solve downtime problems.
