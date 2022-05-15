@@ -45,9 +45,11 @@ The tables of the data warehouse required to investigate downtime incidents are 
 10. Which office had the highest average downtime and what were the overall number of incidents per office?
 
 **See the SQL queries that answered the questions above:**
+
 https://github.com/richardgourley/data-analysis-report-with-sql/blob/main/analysis_queries.sql
 
 **See the final report based on the answers here:**
+
 https://github.com/richardgourley/data-analysis-report-with-sql/blob/main/final_report.MD
 
 
